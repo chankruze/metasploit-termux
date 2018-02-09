@@ -1,10 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
-echo "##############################################"
+echo "####################################"
 echo "PATCH BY GEEKOFIA"
-echo "##############################################"
-
+echo "####################################"
 echo "WAIT UNTIL FINISHED............" 
-
 echo "####################################"
 apt install -y autoconf bison clang coreutils curl findutils git apr apr-util libffi-dev libgmp-dev libpcap-dev postgresql-dev readline-dev libsqlite-dev openssl-dev libtool libxml2-dev libxslt-dev ncurses-dev pkg-config postgresql-contrib wget make ruby-dev libgrpc-dev termux-tools ncurses-utils ncurses unzip zip tar postgresql termux-elf-cleaner
 echo "####################################"
@@ -62,8 +60,8 @@ createuser msf
 createdb msf_database
 
 echo "###############################"
-echo "Thanx  To  RAPID7"
+echo " Thanks To  RAPID7"
 echo "###############################"
-echo "####################################"
+echo "###############################"
 echo " NOW YOU CAN LAUNCH METASPLOIT BY JUST EXECUTING THE COMMAND : msfconsole"
-echo "####################################"
+echo "###############################"
